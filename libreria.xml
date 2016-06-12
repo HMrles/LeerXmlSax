@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<libreria>
+
+	<nombre>Libreria</nombre> 
+	<libros>
+		<libro isbn="200960204">
+			<titulo>El Calculo</titulo>
+			<autor>Louis Leithold</autor>
+		
+		</libro>
+		<libro isbn="200960205">
+			<titulo>Algebra</titulo>
+			<autor>Steward</autor>
+		
+		</libro>
+		<libro isbn="200960206">
+			<titulo>El Hombre de calculaba</titulo>
+			<autor>Un chido</autor>
+		
+		</libro>
+	</libros>
+</libreria>
